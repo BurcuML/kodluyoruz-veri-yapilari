@@ -60,7 +60,7 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı ortada olduğu için cev
       \        /    \       /
        11 16 21      8 12 22
            \           /
-          8 11 12 21 16 22
+          8 11 12 16 21 22
 ```
 
 ```
